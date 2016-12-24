@@ -3,11 +3,11 @@ package io.dropwizard.hibernate;
 import com.google.common.collect.ImmutableList;
 import org.hibernate.Criteria;
 import org.hibernate.HibernateException;
-import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.proxy.HibernateProxy;
 import org.hibernate.proxy.LazyInitializer;
+import org.hibernate.query.Query;
 import org.junit.Before;
 import org.junit.Test;
 
