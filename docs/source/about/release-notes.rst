@@ -42,7 +42,7 @@ v1.1.0: Unreleased
 * Upgraded to Mockito 2.2.1
 * Upgraded to Liquibase 3.5.3
 * Upgraded to JDBI 2.77
-* Upgraded to Jersey 2.24
+* Upgraded to Jersey 2.25
 * Upgraded to javassist 3.21.0-GA
 * Upgraded to Guava 20.0
 
